@@ -1,5 +1,5 @@
 
-# Digital Literacy Ambassador Project Report
+# Digital Literacy Project Report
 
 **Name:** Yash Pratap Singh 
 
