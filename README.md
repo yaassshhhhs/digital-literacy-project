@@ -67,7 +67,7 @@ Google Forms
 cybercrime.gov.in
 
 Digital Literacy Project
-Name: Yash Pratap Singh Regn. no.:25MIM10193 Branch: Int. Mtech A.I.
+Name: Yash Pratap Singh Reg. no.:25MIM10193 Branch: Int. Mtech A.I.
 
 Project Overview
 This project demonstrates digital literacy skills including infographic creation, digital portfolio setup, platform exploration, email etiquette, and cybercrime awareness.
